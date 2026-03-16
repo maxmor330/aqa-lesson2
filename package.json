@@ -1,0 +1,23 @@
+{
+  "name": "aqa-lesson2",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/maxmor330/aqa-lesson2#readme",
+  "bugs": {
+    "url": "https://github.com/maxmor330/aqa-lesson2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxmor330/aqa-lesson2.git"
+  },
+  "license": "ISC",
+  "type": "module",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
